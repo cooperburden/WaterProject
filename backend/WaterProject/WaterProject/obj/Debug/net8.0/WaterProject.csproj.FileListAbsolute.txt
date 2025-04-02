@@ -257,3 +257,5 @@
 /Users/cooperburden/Desktop/WaterProject/backend/WaterProject/WaterProject/obj/Debug/net8.0/WaterProject.pdb
 /Users/cooperburden/Desktop/WaterProject/backend/WaterProject/WaterProject/obj/Debug/net8.0/WaterProject.genruntimeconfig.cache
 /Users/cooperburden/Desktop/WaterProject/backend/WaterProject/WaterProject/obj/Debug/net8.0/ref/WaterProject.dll
+/Users/cooperburden/Desktop/WaterProject/backend/WaterProject/WaterProject/obj/Debug/net8.0/WaterProject.sourcelink.json
+/Users/cooperburden/Desktop/WaterProject/backend/WaterProject/WaterProject/bin/Debug/net8.0/WaterProject.sqlite
