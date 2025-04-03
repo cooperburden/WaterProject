@@ -29,7 +29,7 @@ export const fetchProjects = async (
 
     return await response.json();
     } catch (error) {
-        console.error('error fetching rpojects:', error);
+        console.error('error fetching projects:', error);
         throw error;
     }
 

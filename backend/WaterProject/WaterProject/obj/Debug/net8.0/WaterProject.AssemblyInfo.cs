@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WaterProject")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+449f762d6d5de3fb885700dba221a9c019709ac4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+02c8bd58eec798e7dfd4f2b7326b9abbd4322485")]
 [assembly: System.Reflection.AssemblyProductAttribute("WaterProject")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WaterProject")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

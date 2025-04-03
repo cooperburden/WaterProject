@@ -9,28 +9,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f507d9ff-2b40-4f53-8571-70e10e3a5958" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.WaterProject/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.WaterProject/.idea/indexLayout.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.WaterProject/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.WaterProject/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.WaterProject/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.WaterProject/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.WaterProject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.WaterProject/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WaterProject/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/WaterProject/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WaterProject/Controllers/WaterController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/WaterProject/Controllers/WaterController.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WaterProject/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/WaterProject/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WaterProject/WaterProject.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/WaterProject/WaterProject.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WaterProject/WaterProject.sqlite" beforeDir="false" afterPath="$PROJECT_DIR$/WaterProject/WaterProject.sqlite" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WaterProject/bin/Debug/net8.0/WaterProject.dll" beforeDir="false" afterPath="$PROJECT_DIR$/WaterProject/bin/Debug/net8.0/WaterProject.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WaterProject/bin/Debug/net8.0/WaterProject.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/WaterProject/bin/Debug/net8.0/WaterProject.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WaterProject/obj/Debug/net8.0/WaterProject.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/WaterProject/obj/Debug/net8.0/WaterProject.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WaterProject/obj/Debug/net8.0/WaterProject.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/WaterProject/obj/Debug/net8.0/WaterProject.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WaterProject/obj/Debug/net8.0/WaterProject.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/WaterProject/obj/Debug/net8.0/WaterProject.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WaterProject/obj/Debug/net8.0/WaterProject.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/WaterProject/obj/Debug/net8.0/WaterProject.csproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WaterProject/obj/Debug/net8.0/WaterProject.dll" beforeDir="false" afterPath="$PROJECT_DIR$/WaterProject/obj/Debug/net8.0/WaterProject.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WaterProject/obj/Debug/net8.0/WaterProject.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/WaterProject/obj/Debug/net8.0/WaterProject.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WaterProject/obj/Debug/net8.0/ref/WaterProject.dll" beforeDir="false" afterPath="$PROJECT_DIR$/WaterProject/obj/Debug/net8.0/ref/WaterProject.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WaterProject/obj/Debug/net8.0/refint/WaterProject.dll" beforeDir="false" afterPath="$PROJECT_DIR$/WaterProject/obj/Debug/net8.0/refint/WaterProject.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../frontend/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../frontend/src/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../frontend/src/components/ProjectList.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../frontend/src/components/ProjectList.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../frontend/src/types/Project.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../frontend/src/types/Project.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,28 +51,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;.NET Launch Settings Profile.WaterProject: default.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Launch Settings Profile.WaterProject: http.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Launch Settings Profile.WaterProject: https.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;Phase05&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/cooperburden/Desktop/WaterProject/backend&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    ".NET Launch Settings Profile.WaterProject: default.executor": "Run",
+    ".NET Launch Settings Profile.WaterProject: http.executor": "Run",
+    ".NET Launch Settings Profile.WaterProject: https.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "Phase06",
+    "last_opened_file_path": "/Users/cooperburden/Desktop/WaterProject/backend",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
-      &quot;GitIgnore&quot;
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "GitIgnore"
     ]
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="WaterProject: https" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
       <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/WaterProject/WaterProject.csproj" />
@@ -119,7 +107,7 @@
       <workItem from="1743048679916" duration="142000" />
       <workItem from="1743435225131" duration="1571000" />
       <workItem from="1743608923349" duration="2509000" />
-      <workItem from="1743634530547" duration="310000" />
+      <workItem from="1743634530547" duration="975000" />
     </task>
     <servers />
   </component>
